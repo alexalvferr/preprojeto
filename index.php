@@ -10,3 +10,5 @@ $y = 30;
 $w = $x + $y;
 
 echo "$w";
+
+echo "erro",$w;
